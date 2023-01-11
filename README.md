@@ -1,2 +1,3 @@
 # BostonHousingDataRegression_SKLearn
-Aplicação de técnicas de Machine Learning Regression para predição do preço dos imoveis do dataset Boston Housing 
+
+Application of Machine Learning Regression techniques to predict the price of real estate from the Boston Housing dataset
